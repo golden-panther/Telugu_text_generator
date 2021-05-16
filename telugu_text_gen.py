@@ -13,7 +13,7 @@ st.write("This is a simple AI text generator. It takes a seed text as input and 
 
 with st.form(key='my_form'):
 	telugu_query = st.text_input(label='Enter seed text in telugu')
-	amount_of_text = st.number_input(label="Amount of Text Required (Ranges from 1 to 10, Default is 1)", min_value = 1, max_value=10, step = 1)
+	amount_of_text = st.number_input(label="Amount of Text Required (Ranges from 1 to 10)", min_value = 1, max_value=10, step = 1)
 	submit_button = st.form_submit_button(label='Submit')
 
 translator = Translator()
