@@ -29,4 +29,5 @@ streamlit run https://raw.githubusercontent.com/golden-panther/Telugu_text_gener
 streamlit run telugu_text_gen.py
 ```
 
-Sample text to take seed texts from: ఓ మంచి పాట విన్నప్పుడు, ఆ పాట ఉన్న చిత్రం ఇంకా విడుదల కాకపొతే, ఆ పాటని ఎలా చిత్రకరించారో అనే కుతూహలం ఉంటుంది. చాలా సార్లు చిత్రీకరణ నిరాశ పరుస్తుంది. శ్రోతలకే అలా ఉంటే, సందర్భం, సాహిత్యం, బాణీ కుదిరినప్పుడు, కష్టపడి మంచి పాటను చేస్తే, అది పేలవంగా చిత్రీకరించబడితే, ఆ సంగీత దర్శకుడు ఇంకా ఎంత బాధపడతాడు? కీరవాణిని అలా బాధపెట్టిన పాట, దర్శకుడు ఎవరు? అదే విధంగా, ఒక మంచి పాటని బ్రహ్మాండంగా చిత్రీకరించిన దర్శకుడు ఎవరు?
+You can get some seed texts from here: 
+https://te.wikipedia.org/wiki/
