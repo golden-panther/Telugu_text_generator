@@ -2,6 +2,8 @@
 
 Link: https://share.streamlit.io/golden-panther/telugu_text_generator/main/telugu_text_gen.py
 
+Below are some screenshots of the website.
+
 ## Custom Input
 ![alt text](https://github.com/golden-panther/Telugu_text_generator/blob/main/CustomInputPic.png)
 
