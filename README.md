@@ -2,8 +2,6 @@
 
 Link: https://share.streamlit.io/golden-panther/telugu_text_generator/main/telugu_text_gen.py
 
-A simple AI text generator (telugu language) which takes a seed text as input and generates telugu text related to the seed text as output. We can also adjust the amount of text, we want to generate in the range of 1 to 10.
-
 ## Usage
 1. Open website
 2. Select/input seed text
