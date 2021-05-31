@@ -43,13 +43,25 @@ This is how the code works.....
   5. Display the output
 
 # >> How to run this app
-Use the project online with the link.
+To use our project - go to this link: https://share.streamlit.io/golden-panther/telugu_text_generator/main/telugu_text_gen.py
 (or)
-clone this repo then run on your machine with:
+
+To run this app
+
+```
+pip install -r requirements.txt
+streamlit run https://raw.githubusercontent.com/golden-panther/Telugu_text_generator/main/telugu_text_gen.py
+```
+
+(or)
+
+To run our telugu text generator on your machine by cloning this repository,
+* Type the following in your terminal or cmd:
 ```
 pip install -r requirements.txt
 streamlit run telugu_text_gen.py
 ```
+* The web app opens up in a local host. Then you can use it for generating telugu text. That's it!
 
 ## You can get some telugu seed texts from here: 
 https://te.wikipedia.org/wiki/
