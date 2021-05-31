@@ -44,6 +44,7 @@ This is how the code works.....
 
 # >> How to run this app
 To use our project - go to this link: https://share.streamlit.io/golden-panther/telugu_text_generator/main/telugu_text_gen.py
+
 (or)
 
 To run this app
