@@ -27,7 +27,7 @@ Note: There are two methods of giving input. Choose any one.
 ### Success message
 ![alt text](https://github.com/golden-panther/Telugu_text_generator/blob/main/SuccessPic.jpg)
 
-# >>Details
+# >> Details
 
 I integrated two APIs to achieve telugu language text generator from english text generator.
   1. Googletrans (a python module which enables usage of free Google translate API)
